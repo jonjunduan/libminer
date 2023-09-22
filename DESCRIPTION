@@ -15,3 +15,5 @@ Config/testthat/edition: 3
 Imports: 
     fs,
     purrr
+URL: https://github.com/jonjunduan/libminer
+BugReports: https://github.com/jonjunduan/libminer/issues
